@@ -17,7 +17,7 @@ Hello, we are the SH Automation Ninjas - a team dedicated to automating repetiti
 
 We're all learning as we go, so here are some steps to help us work together effectively:
 
-1. **Create a Directory**: If you're working on a new task, create a new directory for it. This keeps our scripts for different tasks separate and organized. For instance, if you're working on a task for removing duplicate emails, you might create a directory called "Duplicate Emails Removal".
+1. **Create a Directory**: If you're working on a new task, create a new directory for it. This keeps our scripts for different tasks separate and organized. For instance, if you're working on a task for removing duplicate emails, you might create a directory called "Duplicate Emails Removal". To create a new directory under your own name, you can name your new file "/new_directory_name/new_file_name".
 2. **Make Your Changes**: Use ChatGPT to generate your code, then add it to your local copy of the repository within the appropriate directory. Make sure to test your changes thoroughly.
 3. **Commit Your Changes**: Once you're happy with your changes, commit them. This saves your changes to your local copy of the repository.
 4. **Push Your Changes**: After you've committed your changes, push them to GitHub. This will make your changes visible to everyone else on the team.
